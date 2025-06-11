@@ -1,2 +1,1 @@
-# creations
-Issues and suggestions can be created in this page
+#Issues and suggestions can be created in this page
